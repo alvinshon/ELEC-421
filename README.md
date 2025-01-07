@@ -6,10 +6,8 @@ The goal of this project is to provide hands-on experience with implementing the
 
 Tasks:
 1. Naive DFT Implementation:
-   
-o Write a MATLAB function to compute the DFT of a given signal using the naive formula (O(N²) complexity).
-
-o Analyze the computational cost by measuring the execution time for different signal lengths.
+   o Write a MATLAB function to compute the DFT of a given signal using the naive formula (O(N²) complexity).
+   o Analyze the computational cost by measuring the execution time for different signal lengths.
 3. DIT FFT Implementation:
   o Implement the Decimation-in-Time (DIT) FFT algorithm recursively.
   o Visualize the block diagram for N = 8, clearly indicating the stages of decomposition and the butterfly operations.
