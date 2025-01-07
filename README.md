@@ -1,10 +1,10 @@
 # ELEC-421
 Digital Signal and Image Processing
 
-Objective
+Objective:
 The goal of this project is to provide hands-on experience with implementing the Discrete Fourier Transform (DFT) and the Fast Fourier Transform (FFT) algorithms, specifically focusing on the Decimation-in-Time (DIT) and Decimation-in-Frequency (DIF) approaches. You will compare the performance of these algorithms against the naive DFT and apply them to analyze an audio signal.
 
-Tasks
+Tasks:
 1. Naive DFT Implementation:
   o Write a MATLAB function to compute the DFT of a given signal using the naive formula (O(N²) complexity).
   o Analyze the computational cost by measuring the execution time for different signal lengths.
